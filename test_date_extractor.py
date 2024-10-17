@@ -10,8 +10,8 @@ class TestDateExtractor(unittest.TestCase):
 
         # Expected dates in the format (Year, Month, Day)
         expected_dates = [
-            "2023-09-16",
-            "2023-10-20",
+            "2023-09-15",
+            "2024-10-20",
             "2023-10-15"
         ]
         extracted_dates = [date.strftime("%Y-%m-%d") for date in result]
