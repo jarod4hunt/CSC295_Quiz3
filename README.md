@@ -1,1 +1,1 @@
-# CSC295_Quiz3
+# CSC395_Quiz3
